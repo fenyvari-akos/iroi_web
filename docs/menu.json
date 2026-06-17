@@ -1,0 +1,9 @@
+[
+  { "icon": "home", "label": "Főoldal", "route": "/" },
+  { "icon": "landscape", "label": "Árnyrév", "route": "/arnyrev" },
+  { "icon": "book", "label": "Könyvek", "route": "/konyvek" },
+  { "icon": "newspaper", "label": "Hírek", "route": "/hirek" },
+  { "icon": "note", "label": "Jegyzetek", "route": "/jegyzetek" },
+  { "icon": "contact_mail", "label": "Kapcsolat", "route": "/kapcsolat" }
+]
+
