@@ -1,0 +1,10 @@
+{
+  "pageTitle": "Könyvek",
+  "intro": "Válogatott könyveink:",
+  "books": [
+    { "id": "b1", "title": "A nagy könyv", "author": "K. Péter", "desc": "Egy izgalmas regény." },
+    { "id": "b2", "title": "Másik könyv", "author": "N. Ilona", "desc": "Hasznos tankönyv." }
+  ],
+  "noBooks": "Nincsenek könyvek"
+}
+
